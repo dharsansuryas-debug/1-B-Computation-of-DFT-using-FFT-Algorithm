@@ -38,10 +38,8 @@ xgrid();
 
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/2aeb4fdf-76cb-40b6-b2cb-fb755a8d1701" />
 ### SAMPLE OUTPUT
-<br>
-<br>
-<br
-<br>
+<img width="1600" height="831" alt="image" src="https://github.com/user-attachments/assets/710f0899-b36a-4c42-a59b-652793ccab70" />
+
 
 
 
